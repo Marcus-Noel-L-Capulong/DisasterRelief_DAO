@@ -1,5 +1,15 @@
 # Disaster Relief DAO
 
+## CONTRACT ID:
+CCZ3773WATNQTNE6P25GYSHDLAF2VMLA3WEMKNDOGK24PEJDNHCLFR7Y
+
+
+## CONTRACT LINK:
+https://stellar.expert/explorer/testnet/contract/CCZ3773WATNQTNE6P25GYSHDLAF2VMLA3WEMKNDOGK24PEJDNHCLFR7Y
+
+
+![PICTURE](Stellar.png)
+
 **Problem:** During frequent typhoons in the Philippines, international aid takes weeks to trickle down to affected municipalities due to bureaucratic bottlenecks and high cross-border NGO fees.
 
 **Solution:** A transparent, smart-contract-managed relief fund where global donors pool USDC. When a local mayor or verified NGO signals an emergency, the Soroban contract instantly disburses funds to pre-registered local merchants (for water, rice, medicine) via a 2-of-3 multi-sig approval.
